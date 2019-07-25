@@ -1,7 +1,7 @@
 # FW_Castelluccio_di_Norcia_2019
 Shared files of the INGV ERT Fullwaver survey @Castelluccio di Norcia - 2019_05_13-23
 
-This repository collects all the files for the ERT FullWaver geophysical survey held on May 13-23 2019 at the site of Pian Grande e Pian Piccolo Castelluccio di Norcia (PG), Italy.
+This repository collects all the files for the ERT FullWaver geophysical survey held on May 13-23 2019 at the site of Pian Grande and Pian Piccolo at Castelluccio di Norcia (PG), Italy.
 This is a research project by **INGV Rome**.
 
 Files in this repository are organized as follows:
